@@ -1,0 +1,30 @@
+* {
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+h1 {
+    font-size: 45px;
+    color: #09cf7f;
+    text-shadow: -2px -2px 0 #80bd16, 2px -2px 0 #80bd16, -2px 2px 0 #80bd16, 2px 2px 0 #80bd16;
+}
+
+#storagenameinput {
+    width: auto;
+    height: auto;
+    padding: 2px;
+    border-radius: 16px;
+    border-color: #7c9cce;
+}
+
+#newbutton {
+    width: auto;
+    height: auto;
+    margin: 20px auto;
+    padding: 2px;
+    border-radius: 16px;
+    color: #222222;
+    border-color: #7c9cce;
+    background-color: #99eecc;
+}

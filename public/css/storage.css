@@ -1,0 +1,25 @@
+* {
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+h1 {
+    font-size: 45px;
+    color: #09cf7f;
+    text-shadow: -2px -2px 0 #80bd16, 2px -2px 0 #80bd16, -2px 2px 0 #80bd16, 2px 2px 0 #80bd16;
+}
+
+.storage {
+    width: auto;
+    font-size: 20px;
+    text-decoration: none;
+    display: inline-block;
+    outline-style: double;
+    outline-color: #7c9cce;
+    margin: 9px auto;
+    padding: 2px;
+    border-radius: 16px;
+    color: #bdfffc;
+    background-color: #6dca6d;
+}

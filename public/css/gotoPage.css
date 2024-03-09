@@ -1,0 +1,13 @@
+.goto {
+    width: auto;
+    font-size: 24px;
+    text-decoration: none;
+    display: inline-block;
+    outline-style: double;
+    outline-color: #7c9cce;
+    margin: 20px auto;
+    padding: 2px;
+    border-radius: 16px;
+    color: #e6da35;
+    background-color: #4532ee;
+}

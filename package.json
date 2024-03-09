@@ -1,0 +1,16 @@
+{
+  "name": "greenstorage",
+  "version": "1.0.0",
+  "description": "NewWorld 2015 Green Storage Server is remote storage.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JkhTV",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  }
+}

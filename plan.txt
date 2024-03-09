@@ -1,0 +1,7 @@
+Copyright 2022. New World 2015 Inc. All Right Reserved.
+
+Project Name : Green Storage
+Project Full Name : New World 2015 Green Storage Service
+Author : JkhTV
+Company : NewWorld 2015
+Description : New World 2015 Green Storage Service is remote storage.
